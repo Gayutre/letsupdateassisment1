@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,400;1,500&family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+body {
+    background-color: aliceblue;
+}
+
+div {
+    background-color: bisque;
+    color: #526667;
+    padding: 20px 10px;
+}
+
+h1,
+h2 {
+    font-family: 'Lora', 'poppins';
+}
+
+section {
+    border: 2px solid #62254c;
+    border-radius: 10px 12px;
+}
+
+p {
+    padding: 5px;
+    font-size: 2rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #62254ce6;
+}
+
+li {
+    font-size: 1.5rem;
+    color: #62254ce6;
+}
+
+li:hover {
+    color: #d88415c8;
+}
